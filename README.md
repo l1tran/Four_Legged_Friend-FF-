@@ -10,4 +10,5 @@ Created a four-legged robot using cardboards, micro servos,
 Successfully implement walking and sitting motions based on distance
     in front of the robot.
 
-Achieved an award for most technical project.
+Achieved Best Technical Project, Best Technical Presentation,
+        Best Functional CAD Design awards.
